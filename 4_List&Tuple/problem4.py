@@ -2,3 +2,4 @@
 
 list=[12, 34,60, 55]
 print(sum(list))
+
