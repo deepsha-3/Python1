@@ -5,6 +5,7 @@
 words_to_replace= ["Donkey","Monkey", "day"]
 with open("D:\\python\\9_FileIn_ot\\donkey2.txt", "r") as file:
     content = file.read()
+    
 for word in words_to_replace:
     content = content.replace(word, "#" * len(word))
 with open("D:\\python\\9_FileIn_ot\\donkey2.txt", "w") as file:

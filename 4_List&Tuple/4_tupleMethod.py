@@ -8,7 +8,6 @@ no= a.count(2)
 print(no)
 
 
-
 # index() method: returns the first index of the value
 
 i=a.index(5)
