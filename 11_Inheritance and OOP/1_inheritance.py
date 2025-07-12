@@ -1,12 +1,12 @@
 # inheritance in python 
 class Computer:  # base\ parent class
     name = "Lenovo"  # default attribute
-    def display(self):
+    def display(self):  # display method
         print(f"This is my computer {self.name}")
         
 class Laptop(Computer):  # inherit\child class
     name = "Dell"    # attribute (overriding)
-    def run(self):   
+    def run(self):  # run method 
         pass
 
 a = Computer()
