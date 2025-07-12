@@ -1,5 +1,5 @@
 # single inheritance in python:
-
+    # one child class inherits from one parent class.
 class Person:
     def speak(self):   # parent class
         print("Can you speak.")
