@@ -10,5 +10,5 @@ class Audi(Car):   # child class
         super().show()
         print("Showing audi details.")
 
-obj = Audi()   
-obj.show()
+obj = Audi()   # object creation
+obj.show() 
