@@ -2,7 +2,7 @@
 class Computer:  # base\ parent class
     name = "Lenovo"  # default attribute
     def display(self):  # display method
-        print(f"This is my computer {self.name}")
+        print(f"This is my computer {self.name}.")
         
 class Laptop(Computer):  # inherit\child class
     name = "Dell"    # attribute (overriding)
