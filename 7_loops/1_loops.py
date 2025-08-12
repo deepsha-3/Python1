@@ -7,7 +7,7 @@ for a in range(1,11):
 
 
 
-# while loop
+# while loop in python:
 
 a= 0
 while(a<=5):
