@@ -12,4 +12,6 @@ class Car:
          """Get the model of the car."""
          return self._model
 
-obj = Car("BMW X5")
+obj = Car("")
+obj.model
+print(obj.model)
