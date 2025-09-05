@@ -8,7 +8,7 @@ from pygame import mixer
 
 # Adding music is optional as per your choice.
 mixer.init()
-mixer.music.load(r"C:\Users\dell\Downloads\fbratdelabestsitesolutions.co.za - The Weeknd, Playboi Carti - Timeless (320 Kbps).mp3")
+mixer.music.load(r"The Weeknd, Playboi Carti - Timeless (320 Kbps).mp3")
  # add your favorite music file name or path
 
 # sets background
