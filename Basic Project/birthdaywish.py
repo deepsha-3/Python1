@@ -104,7 +104,7 @@ turtle.color("yellow")
 turtle.pendown()
 
 # ENTER YOUR NAME IN THE NAME PLACE
-turtle.write(arg=f"Happy Birthday CodeWithRandom!", align="center", font=("jokerman", 20, "normal"))
+turtle.write(arg=f"Happy Birthday Deepsha!", align="center", font=("jokerman", 20, "normal"))
 time.sleep(1.5)
 # Bouncing Animation
 for _ in range(7):
@@ -115,7 +115,7 @@ for _ in range(7):
     turtle.penup()
     turtle.goto(-150, 50 - _ * 10)
     turtle.pendown()
-    turtle.write(arg=f"Happy  Birthday  CodeWithRandom!", align="left", font=("jokerman", 20, "normal"))
+    turtle.write(arg=f"Happy  Birthday  Deepsha!", align="left", font=("jokerman", 20, "normal"))
     time.sleep(0.5)
 
 turtle.done()
