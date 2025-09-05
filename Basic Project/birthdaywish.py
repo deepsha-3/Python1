@@ -8,7 +8,7 @@ from pygame import mixer
 
 # Adding music is optional as per your choice.
 mixer.init()
-mixer.music.load("")  # add your favorite music file name or path
+mixer.music.load("C:\Users\dell\Downloads\affordablewebsitesolutions.co.za - The Weeknd, Playboi Carti - Timeless (320 KBps).mp3")  # add your favorite music file name or path
 
 # sets background
 bg = turtle.Screen()
