@@ -25,4 +25,4 @@ def cake_calculator(available_flour, available_sugar ):
    return [cakes_made, flour_left, sugar_left]
 
 # calling the function with example values
-cake_calculator(100, 50)
+cake_calculator(500, 600)
