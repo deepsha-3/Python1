@@ -17,5 +17,12 @@ def cake_calculator(available_flour, available_sugar ):
 # let's see what's left in the pantry
    flour_left = available_flour - (cakes_made * flour_per_cake)
    sugar_left = available_sugar - (cakes_made * sugar_per_cake)
-  
+
+# print the results
+   print(f"Cakes made: {cakes_made}")
+   print(f"Flour left: {flour_left} units, Sugar left: {sugar_left} units")
+
    return [cakes_made, flour_left, sugar_left]
+
+# calling the function with example values
+cake_calculator(500, 200)
