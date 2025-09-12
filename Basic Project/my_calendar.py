@@ -1,5 +1,5 @@
 import calendar
-yy = 2026  
+yy = 2026  # year
 mm = 10    
 
 
