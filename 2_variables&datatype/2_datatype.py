@@ -8,9 +8,8 @@ c = "Hello"
     #    c is a string data type
 
 d= 'c'
-    # c is a character, but in Python, characters are treated as strings of length 1. no character data type in
+    # c is a character, but in Python, characters are treated as strings of length 1. no character data type in python
 
-    
 e = True  
     #    d is a boolean data type, representing a truth value
 
