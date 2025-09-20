@@ -24,6 +24,9 @@ print(a)  # Output: 15
 a= 3<2
 print(a)  # Output: False
 
+b= 3>2
+print(b)  # Output: True
+
 
 # 4. Logical Operators
 '''Logical operators are used to combine conditional statements. They return a boolean value based on the logical operation.'''
