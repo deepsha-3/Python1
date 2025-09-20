@@ -9,7 +9,6 @@ c= a + b
 print(c)  # Output: 6
 
 
-
 # 2. Assignment Operators
 '''Assignment operators are used to assign values to variables. They can also perform operations and assign the result back to the variable.'''
    # Here are the assignment operators in Python:
@@ -17,7 +16,6 @@ a = 5
 b = 10  
 a += b  # Equivalent to a = a + b
 print(a)  # Output: 15
-
 
 
 # 3. Comparision operators / Relational operators
