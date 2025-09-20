@@ -1,4 +1,4 @@
-# here a is a, b variable. 
+# variable in python 
 
 a = 2
 b = 3
