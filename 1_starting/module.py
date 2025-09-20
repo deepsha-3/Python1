@@ -1,3 +1,5 @@
+# module that uses the pyjokes library
+
 import pyjokes
 
 
