@@ -20,8 +20,8 @@ d= "123"  # This is a string, not an integer
 t = type(d)
 print(t)
 
-
-# 4.  Boolean
-e = True    
-t = type(d)
+# 4. Boolean
+e = True
+t = type(e)
 print(t)
+
