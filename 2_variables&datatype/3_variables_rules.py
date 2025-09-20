@@ -11,7 +11,6 @@ _name = 5
 # @name = 6 this is not allowed, as @ is not a valid character for variable names.
 # Rules for defining variables in Python:
 
-
 '''
 1. Variable names can only contain letters, numbers, and underscores.
 
