@@ -1,7 +1,7 @@
 # Use comparison operator to find out whether a given variable is greater then b or not. 
-# Let's take a=34 and b=80
+# Let's take a = 34 and b = 80
 
-a=34
+a = 34
 b=80 
 print("The value of a is greater than b:", a > b)
 
