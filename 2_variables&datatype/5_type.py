@@ -2,8 +2,8 @@
 # type in python
 
 # 1.  Integer 
-a =2
-t =type(a) 
+a = 2
+t = type(a) 
 print(t)
 
 # 2.  Float
@@ -16,7 +16,7 @@ c = "Hello, Coders!"
 t = type(c)
 print(t)
   
-d= "123"  # This is a string, not an integer
+d = "123"  # This is a string, not an integer
 t = type(d)
 print(t)
 
