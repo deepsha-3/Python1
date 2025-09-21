@@ -7,7 +7,7 @@ b = 1.67
 c = "Hello"
     #    c is a string data type
 
-d= 'c'
+d = 'c'
     # c is a character, but in Python, characters are treated as strings of length 1. no character data type in python
 
 e = True  
@@ -20,6 +20,6 @@ f = None
 '''g = Null
     f is a NullType, but in Python, we use None instead of Null '''
 
-r=45
+r = 45
 print(a, b, c, d, e,f, r)
 
