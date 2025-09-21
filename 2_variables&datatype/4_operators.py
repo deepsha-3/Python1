@@ -3,9 +3,9 @@
 # 1. Arithmetic Operators:
 '''These operators are used to perform mathematical operations.'''
    # Here are the arithmetic operators in Python:
-a=2
-b=4
-c= a + b
+a = 2
+b = 4
+c = a + b
 print(c)  # Output: 6
 
 
