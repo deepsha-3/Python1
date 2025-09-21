@@ -21,10 +21,10 @@ print(a)  # Output: 15
 # 3. Comparision operators / Relational operators
 '''Comparison operators are used to compare two values. They return a boolean value (True or False) based on the comparison.'''   
     # Here are the comparison operators in Python: 
-a= 3<2
+a = 3 < 2
 print(a)  # Output: False
 
-b= 3>2
+b = 3 > 2
 print(b)  # Output: True
 
 
