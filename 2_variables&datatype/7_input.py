@@ -2,7 +2,7 @@
 #  If we want to takes input from the user and store it in a variable.
 
 #  basics of input function in Python.
-a= input("Enter a number:")
+a = input("Enter a number:")
 print("You entered:", a)
 
 # addition two numbers
