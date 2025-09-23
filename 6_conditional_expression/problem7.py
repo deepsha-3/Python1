@@ -5,12 +5,12 @@
 70-80 => B 
 60-70 => C 
 50-60 => D 
-<50 => E
+< 50 => E
 """
 
 marks=int(input("Enter your marks:"))
 
-if(marks<=100 and marks>=90):
+if(marks <= 100 and marks >= 90):
     grade="EX"
 
 elif(marks<90 and marks>=80):
