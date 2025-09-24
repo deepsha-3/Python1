@@ -12,7 +12,7 @@ else:
 
  # we can run this program like this in this case we can give the captial and smmall post it can read and gives the output.
 
-post= input("Enter the post:")
+post = input("Enter the post:")
 
 if("Dipisha".lower() in post.lower()):
       print("This is talking about Dipisha.")
