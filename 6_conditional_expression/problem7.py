@@ -11,7 +11,7 @@
 marks=int(input("Enter your marks:"))
 
 if(marks <= 100 and marks >= 90):
-    grade="EX"
+    grade = "EX"
 
 elif(marks<90 and marks>=80):
     grade="A"
