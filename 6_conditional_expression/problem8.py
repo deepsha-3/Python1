@@ -1,7 +1,7 @@
 # Write a program to find out whether a given post is talking about "Dipisha" or not. 
 
 
-post ="Jaane bela ta hajurko bhok lai double boost garera pathaune ho, hai? Ramailo garera khau, ani feri chill garna aau! Bye bye, chef Dipisha! 😆👩‍🍳"
+post = "Jaane bela ta hajurko bhok lai double boost garera pathaune ho, hai? Ramailo garera khau, ani feri chill garna aau! Bye bye, chef Dipisha! 😆👩‍🍳"
 
 
 if("Dipisha" in post):
