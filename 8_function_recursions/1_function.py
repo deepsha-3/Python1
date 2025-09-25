@@ -4,8 +4,8 @@ def add():
     b = int(input("Enter the number:"))
     c = int(input("Enter the number:"))
     d = int(input("Enter the number:"))
-    
-    addition= a+b+c+d
+
+    addition = a + b + c + d
     print(addition)
 
 # function call
