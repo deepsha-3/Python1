@@ -3,7 +3,7 @@
 d= int(input("Enter your age:"))
 
 # If statement no:1
-if(d%2==0):                 # If statement would have run independently.
+if(d%2==0):              # If statement would have run independently.
     print("d is even.")
 
 #end of If statement no:1
