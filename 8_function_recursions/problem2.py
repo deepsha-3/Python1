@@ -19,7 +19,7 @@ print(greatest(d, e, f))
 
 # provide input
 def greatest(d, e, f):
-    if(d>e and d>f):
+    if(d > e and d > f):
         return d
     elif(e>d and e>f):
         return e
