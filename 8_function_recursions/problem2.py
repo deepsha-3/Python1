@@ -13,12 +13,12 @@ d = int(input("Enter the first number: "))
 e = int(input("Enter the second number: "))
 f = int(input("Enter the third number: "))
 
-print(greatest(d,e,f))
+print(greatest(d, e, f))
 
 
 
 # provide input
-def greatest(d,e, f):
+def greatest(d, e, f):
     if(d>e and d>f):
         return d
     elif(e>d and e>f):
