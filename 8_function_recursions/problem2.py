@@ -4,9 +4,9 @@
 def greatest(d, e, f):
     if(d > e and d > f):
         return d
-    elif(e>d and e>f):
+    elif(e > d and e > f):
         return e
-    elif(f>e and f>d):
+    elif(f > e and f > d):
         return f
     
 d= int(input("Enter the first number: "))
