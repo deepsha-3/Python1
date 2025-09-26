@@ -26,8 +26,8 @@ def greatest(d, e, f):
     elif(f > e and f > d):
         return f
     
-d= 9
-e= 6
-f= 4
+d = 9
+e = 6
+f = 4
 
-print(greatest(d,e,f))
+print(greatest(d, e, f))
