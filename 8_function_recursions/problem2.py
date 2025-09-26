@@ -1,8 +1,8 @@
 # Write a program using functions to find greatest of three numbers.
 
 # input from user
-def greatest(d,e, f):
-    if(d>e and d>f):
+def greatest(d, e, f):
+    if(d > e and d > f):
         return d
     elif(e>d and e>f):
         return e
