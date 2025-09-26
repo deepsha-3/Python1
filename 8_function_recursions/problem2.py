@@ -23,7 +23,7 @@ def greatest(d, e, f):
         return d
     elif(e > d and e > f):
         return e
-    elif(f>e and f>d):
+    elif(f > e and f > d):
         return f
     
 d= 9
