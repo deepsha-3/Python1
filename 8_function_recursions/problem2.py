@@ -9,9 +9,9 @@ def greatest(d, e, f):
     elif(f > e and f > d):
         return f
     
-d= int(input("Enter the first number: "))
-e= int(input("Enter the second number: "))
-f= int(input("Enter the third number: "))
+d = int(input("Enter the first number: "))
+e = int(input("Enter the second number: "))
+f = int(input("Enter the third number: "))
 
 print(greatest(d,e,f))
 
