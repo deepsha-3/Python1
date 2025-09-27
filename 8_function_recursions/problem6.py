@@ -6,7 +6,7 @@
 """
 
 def pattern(n):
-     if(n==0):
+     if(n == 0):
          return     # return statement other below function can't run
      print("*" *n)
      pattern(n-1)
