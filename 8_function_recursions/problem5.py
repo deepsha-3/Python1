@@ -3,5 +3,5 @@
 def naturalnumsum(n):
     if (n == 1):
         return 1
-    return naturalnumsum(n-1)+n
+    return naturalnumsum(n - 1) + n
 print(naturalnumsum(8))
