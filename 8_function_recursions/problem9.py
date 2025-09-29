@@ -6,5 +6,5 @@ def table(num):
         print(f"{num} X {a} = {num*a}")
 
 
-num= int(input("Enter the number:"))
+num = int(input("Enter the number:"))
 table(num)
