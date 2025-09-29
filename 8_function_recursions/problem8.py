@@ -2,7 +2,7 @@
 
 
 def wordrem(list, wordremove):
-    num=[]
+    num = []
     for item in list:
         if not(item==wordremove):
             num.append(item.strip(wordremove))
