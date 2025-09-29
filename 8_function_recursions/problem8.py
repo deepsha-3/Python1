@@ -8,6 +8,6 @@ def wordrem(list, wordremove):
             num.append(item.strip(wordremove))
     return num
       
-list=["Apple", "Ball", "Append","App" "Dog" ]
+list = ["Apple", "Ball", "Append","App" "Dog" ]
 print(wordrem(list, "App"))
 
