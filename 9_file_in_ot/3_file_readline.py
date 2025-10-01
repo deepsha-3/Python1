@@ -6,7 +6,7 @@ write
 readline
 close
 """
-f= open(r"D:\python\9_FileIn_ot\file.txt")
+f = open(r"D:\python\9_FileIn_ot\file.txt")
 # line= f.readline()
 # print(line, type(line))
 
