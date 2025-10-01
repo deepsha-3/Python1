@@ -10,7 +10,7 @@ f = open(r"D:\python\9_FileIn_ot\file.txt")
 # line= f.readline()
 # print(line, type(line))
 
-line1=f.readline()
+line1 = f.readline()
 print(line1, type(line1))
 
 
