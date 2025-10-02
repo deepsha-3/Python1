@@ -1,6 +1,6 @@
 # with statement 
 
-f= open(r"D:\python\9_FileIn_ot\file.txt")
+f = open(r"D:\python\9_FileIn_ot\file.txt")
 print(f.read())
 f.close()
 
