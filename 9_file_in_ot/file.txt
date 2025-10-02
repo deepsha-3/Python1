@@ -1,0 +1,7 @@
+This is content of file for file.py.
+
+Python is a high-level programming language.
+
+Python supports multiple programming. 
+
+Python is widely used for web development, data science, automation, AI, and more.
