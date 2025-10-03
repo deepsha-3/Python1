@@ -9,7 +9,7 @@ def game():
         if hiscore.isdigit():
             hiscore = int(hiscore)
         else:
-            hiscore=0
+            hiscore= 0
     print(f"Your current score is: {score}")
     if(score>hiscore ):
        with open("D:\\python\\9_FileIn_ot\\Hi-score.txt", "w") as file:
