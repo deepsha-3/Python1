@@ -5,7 +5,7 @@ def game():
     print("Welcome to the game!")
     score = random.randint(1, 500)  # Simulating a game score
     with open("D:\\python\\9_FileIn_ot\\Hi-score.txt") as file:
-        hiscore=file.read()
+        hiscore= file.read()
         if hiscore.isdigit():
             hiscore=int(hiscore)
         else:
