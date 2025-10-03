@@ -11,7 +11,7 @@ def game():
         else:
             hiscore = 0
     print(f"Your current score is: {score}")
-    if(score>hiscore ):
+    if(score> hiscore ):
        with open("D:\\python\\9_FileIn_ot\\Hi-score.txt", "w") as file:
            file.write(str(score))
     return score
