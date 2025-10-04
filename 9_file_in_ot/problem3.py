@@ -11,3 +11,5 @@ def generate_table(n):
 
 for a in range(2, 21):
     generate_table(a)
+
+
