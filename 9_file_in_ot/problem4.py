@@ -4,6 +4,6 @@
 word_to_replace = "Donkey"
 with open("D:\\python\\9_FileIn_ot\\donkey.txt", "r") as file:
     content = file.read()
-content= content.replace(word_to_replace, "#####")
+content = content.replace(word_to_replace, "#####")
 with open("D:\\python\\9_FileIn_ot\\donkey.txt", "w") as file:
     file.write(content)
