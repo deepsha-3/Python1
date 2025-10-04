@@ -4,7 +4,7 @@ def generate_table(n):
     table = " "
     folder = "tables/"
     for a in range(1, 11):
-        table +=(f"{n} x {a} = {n * a}\n")
+        table += (f"{n} x {a} = {n * a}\n")
     with open(f"{folder}table_{n}.txt", "w") as file:
         file.write(table)
 
