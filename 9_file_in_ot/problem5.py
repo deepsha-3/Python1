@@ -2,7 +2,7 @@
 
 # donkey2.txt is a file which contains the word "Donkey" "Monkey" and "day". 
 
-words_to_replace=["Donkey","Monkey", "day"]
+words_to_replace= ["Donkey","Monkey", "day"]
 with open("D:\\python\\9_FileIn_ot\\donkey2.txt", "r") as file:
     content=file.read()
     
