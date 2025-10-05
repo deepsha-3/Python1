@@ -9,7 +9,7 @@ found = False
 for line in content.splitlines():
     if "python" in line.lower():
         print(f"Python is available in logfile.txt. Line number: {line_num}")
-        found= True
+        found = True
         break
     line_num +=1
 
