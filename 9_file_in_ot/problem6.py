@@ -6,7 +6,7 @@ with open("D:\\python\\9_FileIn_ot\\logfile.txt", "r") as file:
 
 
 if ("python" in content):
-        print("Python is avaible in logfile.txt.")
+        print("Python is available in logfile.txt.")
     
 else:
         print("Python is not available in logfile.txt.")
