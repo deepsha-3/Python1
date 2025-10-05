@@ -4,7 +4,7 @@
 with open("D:\\python\\9_FileIn_ot\\logfile.txt", "r") as file:
     content = file.read()
 
-line_num= 1
+line_num = 1
 found=False
 for line in content.splitlines():
     if "python" in line.lower():
