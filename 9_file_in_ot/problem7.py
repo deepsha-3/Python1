@@ -11,7 +11,7 @@ for line in content.splitlines():
         print(f"Python is available in logfile.txt. Line number: {line_num}")
         found = True
         break
-    line_num +=1
+    line_num += 1
 
 if not found:
     print("Python is not available in logfile.txt.")
