@@ -2,7 +2,7 @@
 
 
 with open("D:\\python\\9_FileIn_ot\\logfile.txt", "r") as file:
-    content =file.read()
+    content = file.read()
 
 line_num=1
 found=False
