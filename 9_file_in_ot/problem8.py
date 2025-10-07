@@ -5,3 +5,4 @@ with open("D:\\python\\9_FileIn_ot\\this.txt", "r") as file:
 
 with open("D:\\python\\9_FileIn_ot\\this_copy.txt", "w") as file:
     file.write(content)
+
