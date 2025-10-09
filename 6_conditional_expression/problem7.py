@@ -26,6 +26,6 @@ elif(marks < 60 and marks >= 50):
     grade = "D"
 
 elif(marks < 50):
-    grade ="E"
+    grade = "E"
 
 print("Your grade is:", grade)
