@@ -10,7 +10,7 @@ for i in range(n):
         elif (i == 0 or i == n // 2 or i == n - 1) and j < n - 1:
             print("*", end="")  # Top, middle, bottom bars
         elif (i < n // 2 or i > n // 2) and j == n - 1:
-            print("*", end="")  # Right curve edges
+            print("*", end="")  
         else:
             print(" ", end="")
     print()
