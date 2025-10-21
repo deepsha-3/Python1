@@ -8,7 +8,7 @@ for i in range(n):
         if j == 0:
             print("*", end="")  # Left spine
         elif (i == 0 or i == n // 2 or i == n - 1) and j < n - 1:
-            print("*", end="")  # Top, middle, bottom bars
+            print("*", end="")  
         elif (i < n // 2 or i > n // 2) and j == n - 1:
             print("*", end="")  
         else:
