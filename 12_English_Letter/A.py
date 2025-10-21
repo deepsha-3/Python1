@@ -1,5 +1,5 @@
 
-# 
+# creating the letter 'A' pattern
 
 n = 4 
 
