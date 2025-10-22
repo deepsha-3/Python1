@@ -1,7 +1,7 @@
 
 # creating the letter 'B' pattern
 
-n = 7  # Height of the B
+n = 7  # Height of 
 
 for i in range(n):
     for j in range(n):
