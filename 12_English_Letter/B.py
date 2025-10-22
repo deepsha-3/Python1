@@ -1,7 +1,7 @@
 
 # creating the letter 'B' pattern
 
-n = 7  # Heig
+n = 7  # Height 
 
 for i in range(n):
     for j in range(n):
