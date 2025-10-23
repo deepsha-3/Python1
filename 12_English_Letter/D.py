@@ -12,7 +12,7 @@ for i in range(n):
         elif (i > 0 and i < n - 1) and j == n - 1:
             print("*", end="")  
         else:
-            print(" ", end="")
+            
     print()
     
   
