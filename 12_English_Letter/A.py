@@ -1,7 +1,7 @@
 
 # creating the letter 'A' pattern
 
-n = 4 
+n = 7
 
 for i in range(n):
     for j in range(2 * n - 1):
