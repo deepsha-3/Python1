@@ -8,4 +8,4 @@ for i in range(number):
         if j == 0 or i == number - 1:
              print("*", end="")
         else:
-              
+             print(" ", end="")
