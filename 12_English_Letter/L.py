@@ -9,3 +9,4 @@ for i in range(number):
              print("*", end="")
         else:
              print(" ", end="")
+    print()
