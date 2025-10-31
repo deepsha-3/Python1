@@ -1,5 +1,5 @@
 
-# Letter pattern 'N'
+# Letter pattern 'N' using Python
 
 num = 8
 
