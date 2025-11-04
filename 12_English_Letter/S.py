@@ -1,4 +1,4 @@
 
 # letter pattern S
 
-for i in range(7):
+num = 7
