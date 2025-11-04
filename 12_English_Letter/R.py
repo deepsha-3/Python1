@@ -1,5 +1,6 @@
 
-# letter parttern R
+# letter pattern R
+
 
 for i in range(7):
     for j in range(5):
