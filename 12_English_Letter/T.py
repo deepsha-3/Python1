@@ -1,4 +1,4 @@
 
 # letter pattern T
 
-num = 5
+num = 7
