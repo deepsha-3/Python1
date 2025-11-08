@@ -1,2 +1,2 @@
 
-# 
+# Letter pattern W 
