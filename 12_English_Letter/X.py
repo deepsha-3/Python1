@@ -8,3 +8,4 @@ for i in range(n):
         if j == i or j == (n * 2 - 2 - i):
             print("*", end="")
         else:
+            print(" ", end="")
