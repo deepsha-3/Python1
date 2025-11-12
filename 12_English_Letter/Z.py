@@ -9,3 +9,5 @@ for i in range(n):
             print("*", end="")
         elif j == n - 1 - i:
             print("*", end="")
+        else:
+            print(" ", end="")
