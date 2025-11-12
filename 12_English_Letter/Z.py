@@ -11,3 +11,5 @@ for i in range(n):
             print("*", end="")
         else:
             print(" ", end="")
+
+    print()
