@@ -9,5 +9,6 @@ for i in range(n):
             print("*", end="")
         elif i >= n // 2 and (j == i - n // 2 or j == (n * 2 - 2 - (i - n // 2))):
             print("*", end="")
-            
-        
+        else:
+            print(" ", end="")
+
