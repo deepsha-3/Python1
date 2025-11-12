@@ -1,4 +1,5 @@
 
+# Pattern to print the letter 'Z'
 
 n = 7
 
