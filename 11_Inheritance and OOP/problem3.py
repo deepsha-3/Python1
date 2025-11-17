@@ -18,3 +18,4 @@ class Employee:
 
 emp = Employee()
 print(f"Salary: {emp.salary}")         
+print(f"Increment: {emp.increment}")
