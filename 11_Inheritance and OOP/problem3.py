@@ -5,3 +5,6 @@
 class Employee:
     pass
 
+emp = Employee()
+emp.salary = 50000
+
