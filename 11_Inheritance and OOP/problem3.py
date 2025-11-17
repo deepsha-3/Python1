@@ -11,4 +11,5 @@ emp.increment = 1.5
 print(f"Salary: {emp.salary}")
 print(f"Increment: {emp.increment}")
 
-
+# second way as a class attribute
+class Employee:
