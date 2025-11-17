@@ -11,3 +11,5 @@ class Vector3D:
         super().__init__(a, b)
         self.c = c
     
+obj1 = Vector2D(3, 4)
+obj2 = Vector3D(3, 4, 5)
