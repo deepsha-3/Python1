@@ -13,3 +13,8 @@ print(f"Increment: {emp.increment}")
 
 # second way as a class attribute
 class Employee:
+    salary = 50000
+    increment = 1.5
+
+emp = Employee()
+print(f"Salary: {emp.salary}")         
