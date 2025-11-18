@@ -1,7 +1,8 @@
 
 # Create a class "Employee" and add salary and increment properties to it. 
 """ 
-Write a method 'salaryAfterIncrement'
+Write a method 'salaryAfterIncrement' method with a @property decorator 
+
 """
 
 # first way as an instant attribute
