@@ -1,6 +1,8 @@
 
 # Create a class "Employee" and add salary and increment properties to it. 
-""" """
+""" 
+Write a method 'salaryAfterIncrement'
+"""
 
 # first way as an instant attribute
 class Employee:
