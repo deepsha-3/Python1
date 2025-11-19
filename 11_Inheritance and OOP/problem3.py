@@ -21,6 +21,7 @@ class Employee:
     salary = 50000
     increment = 40
     @property
+    def salaryAfterIncrement(self):
 emp = Employee()
 print(f"Salary: {emp.salary}")         
 print(f"Increment: {emp.increment}")
