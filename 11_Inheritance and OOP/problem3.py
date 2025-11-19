@@ -16,9 +16,6 @@ print(f"Salary: {emp.salary}")
 print(f"Increment: {emp.increment}")
 
 
-
-
-
 # second way as a class attribute
 class Employee:
     salary = 50000
