@@ -19,8 +19,8 @@ print(f"Increment: {emp.increment}")
 # second way as a class attribute
 class Employee:
     salary = 50000
-    increment = 1.5
-
+    increment = 40
+    @property
 emp = Employee()
 print(f"Salary: {emp.salary}")         
 print(f"Increment: {emp.increment}")
