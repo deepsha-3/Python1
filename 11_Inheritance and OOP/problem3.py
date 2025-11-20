@@ -33,4 +33,4 @@ class Employee:
 emp = Employee()
 # print(emp.salaryAfterIncrement)
 
-emp.increment = 10
+emp.salaryAfterIncrement = 10
