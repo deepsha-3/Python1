@@ -34,3 +34,4 @@ emp = Employee()
 # print(emp.salaryAfterIncrement)
 
 emp.salaryAfterIncrement = 10
+print(f"New Increment: {emp.increment}")
