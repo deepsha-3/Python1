@@ -26,6 +26,7 @@ class Employee:
     
     @increment.setter
     def increment(self, salary):
+        self.increment = ((salary/self.salary) - 1)*100
        
 
 
