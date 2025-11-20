@@ -25,7 +25,7 @@ class Employee:
         return (self.salary +self.salary * self.increment /100)
     
     @salaryAfterIncrement.setter
-    def increment(self, salary):
+    def salaryAfterIncrement(self, salary):
         self.increment = ((salary/self.salary) - 1)*100
        
 
