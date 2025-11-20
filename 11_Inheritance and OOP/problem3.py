@@ -23,6 +23,7 @@ class Employee:
     @property
     def salaryAfterIncrement(self):
         return (self.salary +self.salary * self.increment /100)
+    @increment.setter
     
 emp = Employee()
 print(emp.salaryAfterIncrement)
