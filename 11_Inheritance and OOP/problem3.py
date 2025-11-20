@@ -26,6 +26,8 @@ class Employee:
     
     @increment.setter
     def increment(self, salary):
+       
+
 
 emp = Employee()
 print(emp.salaryAfterIncrement)
