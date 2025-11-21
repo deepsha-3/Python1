@@ -12,7 +12,7 @@ class Complex:
     def __mul__(self, other):
         real_part = self.real * other.real - self.imag * other.imag
         imag_part = self.real * other.imag + self.imag * other.real
-        # return Complex(real_part, imag_part)
+        return Complex(real_part, imag_part)
        
 
     def __str__(self): 
