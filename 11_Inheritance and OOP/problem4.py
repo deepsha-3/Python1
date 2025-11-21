@@ -10,4 +10,4 @@ class Complex:
        return Complex(self.real + other.real, self.imag + other.imag)
  
 other = Complex(2, 3)
-#c1 = Complex(1, 4)
+com = Complex(1, 4)
