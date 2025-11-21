@@ -8,6 +8,9 @@ class Complex:
     
     def __add__(self, other):
        return Complex(self.real + other.real, self.imag + other.imag)
+    
+    def __mul__(self, other):
+       
 
     def __str__(self): 
         return f"{self.real} + {self.imag}i"
