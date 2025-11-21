@@ -10,6 +10,9 @@ class Complex:
        return Complex(self.real + other.real, self.imag + other.imag)
     
     def __mul__(self, other):
+        real_part = self.real * other.real - self.imag * other.imag
+        imag_part = self.real * other.imag + self.imag * other.real
+        # return Complex(real_part, imag_part)
        
 
     def __str__(self): 
@@ -19,3 +22,4 @@ class Complex:
 other = Complex(2, 3)
 com = Complex(1, 4)
 print("Addition:", com + other)  # Output: Addition: 3 + 7i
+print("Multiplication:", com * other)  # Output: Multiplication: -10 + 11i
