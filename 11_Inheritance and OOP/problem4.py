@@ -9,3 +9,5 @@ class Complex:
     def __add__(self, other):
        return Complex(self.real + other.real, self.imag + other.imag)
  
+other = Complex(2, 3)
+#c1 = Complex(1, 4)
