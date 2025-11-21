@@ -10,6 +10,7 @@ class Complex:
        return Complex(self.real + other.real, self.imag + other.imag)
 
     def __str__(self): 
+        return f"{self.real} + {self.imag}i"
 
 
 other = Complex(2, 3)
