@@ -11,4 +11,4 @@ class Complex:
  
 other = Complex(2, 3)
 com = Complex(1, 4)
-print("Addition:", (com + other).real, "+", (com + other).imag, "i")  # Output: 3 + 7 i
+print("Addition:", com + other)  # Output: Addition: 3 + 7i
