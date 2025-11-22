@@ -1,2 +1,2 @@
 
-# Write a class vector representing a vector of n dimensions
+# Write a class vector representing a vector of n dimensions. overloaded the + 
