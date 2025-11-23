@@ -6,3 +6,6 @@ class Vector:
         self.a = a
         self.b = b
         self.c = c
+    
+    def __add__(self, other):
+    
