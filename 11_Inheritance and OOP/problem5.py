@@ -26,4 +26,4 @@ print("Dot product of v2 and v3:", v2 * v3)
 print(v1 + v3)
 print(v1 * v3)
 
-# u = Vector(5, 6, 7)
+
