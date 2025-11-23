@@ -11,12 +11,12 @@ class Vector:
         self.c = c
     
     def __add__(self, other):
-        result = Vector(self.a + other.a, self.b + other.b, self.c + other.c)
-        return result
+        return Vector(self.a + other.a, self.b + other.b, self.c + other.c)
+        
     
     def __mul__(self, other):
-        result = self.a * other.a + self.b * other.b + self.c * other.c
-        return result
+        return self.a * other.a + self.b * other.b + self.c * other.c
+       
     
     def __str__(self):
         return f"({self.a}, {self.b}, {self.c})"
