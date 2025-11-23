@@ -17,3 +17,6 @@ class Vector:
     def __mul__(self, other):
         result = self.a * other.a + self.b * other.b + self.c * other.c
         return result
+    
+    def __str__(self):
+        return f"({self.a}, {self.b}, {self.c})"
