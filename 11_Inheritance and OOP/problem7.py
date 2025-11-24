@@ -15,6 +15,7 @@ class Vector:
     
     def __str__(self):
         return f"({self.a}, {self.b}, {self.c})"
+    def __len__(self):
 
 v1 = Vector(1, 2, 3)
 v2 = Vector(4, 5, 6)
