@@ -2,6 +2,8 @@
 # Write __str__() method to print the vector as follows:
       # 7i + 8j + 9k
 
+# Assume vector of dimension 3 for this problem.
+
 class Vector:
     def __init__(self, a, b, c):
         self.a = a
