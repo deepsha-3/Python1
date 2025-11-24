@@ -30,3 +30,4 @@ print(v1 * v3)
 
 print("Dimension of Vector v1:", len(v1))
 print("Dimension of Vector v2:", len(v2))
+print("Dimension of Vector v3:", len(v3))
