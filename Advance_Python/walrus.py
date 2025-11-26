@@ -4,4 +4,4 @@
 
 if (n := 10) > 5:
     print(f"{n} is greater than 5.")
-print(f"The value of n is: {n}")
+print(f"The value of n is: {n}.")
