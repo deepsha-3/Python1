@@ -5,3 +5,5 @@
 
 num : int = 10
 name : str = "Deepsha"
+def greet(user_name: str) -> str:
+    
