@@ -8,3 +8,6 @@ numbers: List[int] = [1, 2, 3, 4 ]
 
 # Dictinonary type hint
 user_info: Dict[str, int] = {"name": "Karan", "age": 25}
+
+# Tuple type hint
+canditaes : Tuple[str, int ] = ("Partiyush", 24)
