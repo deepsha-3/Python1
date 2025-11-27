@@ -19,3 +19,7 @@ def get_user_age(user: Dict[str, Union[str, int]]) -> Optional[int]:
     return user.get("age")   
        
 print(get_user_age(user_info))  
+
+# Union type hint
+id : Union[int, str] = " ABC123"
+print(id) 
