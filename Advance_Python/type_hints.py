@@ -5,12 +5,15 @@ from typing import List, Dict, Tuple, Optional, Union
 
 # List type hint
 numbers: List[int] = [1, 2, 3, 4 ]
+print("List:", numbers)
 
 # Dictinonary type hint
 user_info: Dict[str, int] = {"name": "Karan", "age": 25}
+print("Dictionary:", user_info)
 
 # Tuple type hint
 canditaes : Tuple[str, int ] = ("Partiyush", 24)
+print("Tuple:", canditaes)
 
 
 # Optional type hint
