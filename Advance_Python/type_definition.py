@@ -5,6 +5,7 @@
 
 num : int = 10
 name : str = "Deepsha"
+
 def greet(user_name: str) -> str:
     return f"Hello, {user_name}!"
 
