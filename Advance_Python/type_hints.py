@@ -5,3 +5,5 @@
 
 num :int = 42
 
+def sum (p: int, q: int) -> int:
+  
