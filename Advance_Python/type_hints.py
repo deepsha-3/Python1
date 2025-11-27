@@ -3,7 +3,5 @@
 
 from typing import List, Dict, Tuple, Optional, Union
 
-num :int = 42
-
-def sum (p: int, q: int) -> int:
-  return p + q
+# List type hint
+numbers: List[int] = [1, 2, 3, 4 ]
