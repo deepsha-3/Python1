@@ -6,4 +6,5 @@ def weekday_name(day_number):
     match day_number:
        case 1:
             return "Sunday"
-        
+       case 2:
+            return "Monday"
