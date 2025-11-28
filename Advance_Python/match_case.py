@@ -8,3 +8,5 @@ def weekday_name(day_number):
             return "Sunday"
        case 2:
             return "Monday"
+       case 3:
+            return "Tuesday"
