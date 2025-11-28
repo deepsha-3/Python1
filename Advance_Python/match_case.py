@@ -1,6 +1,5 @@
 
 
-# Example of match-case statement in Pytthon 
-
+# Example of match-case statement in Python.
 
 
