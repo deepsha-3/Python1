@@ -12,8 +12,8 @@ def weekday_name(day_number):
             return "Tuesday"
        case 4:
             return "Wednesday"
-      
-      
+       case 5:
+            return "Thursday"
        case 6:
             return "Friday"
        case 7:
