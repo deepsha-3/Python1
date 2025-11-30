@@ -18,10 +18,7 @@ def weekday_name(day_number):
             return "Friday"
        case 7:
             return "Saturday"
-       case _:
-            return "Invalid day number"
-    
-
+       
 if __name__ == "__main__":
     for i in range(1, 9):
         print(f"Day {i}: {weekday_name(i)}")
