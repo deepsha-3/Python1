@@ -16,7 +16,9 @@ def weekday_name(day_number):
             return "Thursday"
        case 6:
             return "Friday"
-      
+       case 7:
+            return "Saturday"
+       
 
 if __name__ == "__main__":
     for i in range(1, 9):
