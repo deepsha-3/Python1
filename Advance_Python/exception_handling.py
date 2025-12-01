@@ -6,4 +6,4 @@ try:
     print("You entered:", num)
 
 except Exception as e:
-   
+    print("An error occurred:", e)
