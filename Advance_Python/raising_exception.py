@@ -7,4 +7,4 @@ b = int(input("Enter a second number: "))
 if b == 0:
     raise ValueError("The denominator cannot be zero.")
 else:
-print(f"The division of two numbers is:  {a/b}")
+    print(f"The division of two numbers is:  {a/b}")
