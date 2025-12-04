@@ -1,0 +1,2 @@
+
+# global variable in python
