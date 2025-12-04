@@ -10,4 +10,4 @@ except Exception as e:
     print("An error occurred:", e)
 
 else:
-    
+    print("The result is:", result)
