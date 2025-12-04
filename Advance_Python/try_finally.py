@@ -11,4 +11,4 @@ except Exception as e:
 
 
 finally:
-    print("Execution completed.")
+    print("Execution completed.") # finally block always executes 
