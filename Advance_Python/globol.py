@@ -9,3 +9,5 @@ def func():
     p = p + 5
     print("Inside function:", p)
 
+func()
+print("Outside function:", p)
