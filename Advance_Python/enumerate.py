@@ -7,4 +7,5 @@ list = ['apple', 'banana', 'grapes', 'pear']
 
 index = 0
 for i in list:
+    index += 1
     print("Item:", i)
