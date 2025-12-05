@@ -8,4 +8,4 @@ list = ['apple', 'banana', 'grapes', 'pear']
 index = 0
 for i in list:
     index += 1
-    print(f "The item at index {index} is {i}")
+    print(f"The item at index {index} is {i}")
