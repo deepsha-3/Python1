@@ -5,4 +5,4 @@
 
 list = ['apple', 'banana', 'grapes', 'pear']
 
-for i in lists:
+for i in list:
