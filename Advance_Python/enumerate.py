@@ -5,5 +5,6 @@
 
 list = ['apple', 'banana', 'grapes', 'pear']
 
+index = 0
 for i in list:
     print("Item:", i)
