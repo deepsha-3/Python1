@@ -6,3 +6,4 @@
 list = ['apple', 'banana', 'grapes', 'pear']
 
 for i in list:
+    print("Item:", i)
