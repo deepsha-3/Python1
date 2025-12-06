@@ -12,3 +12,4 @@ for i in list:
 """
 # Using enumerate to achieve the same result
 
+for index, item in enumerate(list):
