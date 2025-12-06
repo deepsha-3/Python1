@@ -9,3 +9,5 @@ index = 0
 for i in list:
     print(f"The item at index {index} is {i}")
     index += 1
+
+# Using enumerate to achieve the same result
