@@ -1,3 +1,3 @@
 
 # Write a program to open three files 1.txt, 2.txt, and 3.txt if any these are preseanr a m
-# message 
+# message without existing the ethe program
