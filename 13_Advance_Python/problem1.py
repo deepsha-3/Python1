@@ -4,4 +4,4 @@
 with open("1.txt", "r") as f:
     print(f.read())
 
-with open("2.txt", "r"):
+with open("2.txt", "r") as f:
