@@ -8,3 +8,4 @@ with open("2.txt", "r") as f:
     print(f.read())
 
 with open("3.txt", "r") as f:
+    print(f.read())
