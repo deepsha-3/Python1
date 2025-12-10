@@ -16,7 +16,7 @@ except Exception as e:
 
 
 try:
-    with open("3.txt", "r") as as f:
+    with open("3.txt", "r") as  f:
         print(f.read())
 except Exception as e:
     print(e)
