@@ -1,2 +1,2 @@
 
-# Write a program to print third, fifth and seventh elemnet from a list using enumerate function.
+# Write a program to print third, fifth and seventh element from a list using enumerate function.
