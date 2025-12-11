@@ -3,7 +3,7 @@
 
 
 try: 
-    with open("1.txt", "r") as f:
+    with open("1st.txt", "r") as f:
         print(f.read())
 except Exception as e:
     print(e)
