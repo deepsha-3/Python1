@@ -1,2 +1,2 @@
 
-# Write a program to print 
+# Write a list comprehension to print 
