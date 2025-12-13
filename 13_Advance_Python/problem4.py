@@ -4,3 +4,5 @@
 try: 
     a = int (input("Enter numerator (a): "))
     b = int (input("Enter denominator (b): "))
+
+except ValueError:
