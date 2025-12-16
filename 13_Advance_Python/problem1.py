@@ -22,5 +22,5 @@ except Exception as e:
     print(e)
 
 
-print("Nothing")
+print("This code can't work properly.")
 
