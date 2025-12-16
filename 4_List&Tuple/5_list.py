@@ -1,3 +1,4 @@
+# list in python 
 fruits = ["apple", "banana", "cherry"]
 fruits.append("orange")   
 print(fruits[0])          
